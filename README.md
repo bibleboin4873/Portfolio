@@ -1,5 +1,5 @@
 
-![결국 닿을 곳](/images/ocen.jpg)
+![결국 닿을 곳](./images/ocen.jpg)
 
 
 #  AI Engineer Portfolio
