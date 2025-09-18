@@ -1,6 +1,5 @@
-
+#  결국 닿을 곳
 ![결국 닿을 곳](ocen.jpg)
-
 
 #  AI Engineer Portfolio
 AI 엔지니어로 살아가는 전 SW교육운영자, 마케팅 전공
